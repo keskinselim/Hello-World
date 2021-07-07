@@ -1,4 +1,4 @@
-# you have 2 options for write Hello World
+# you have three options for write Hello World
 
 
 # first 
@@ -9,3 +9,17 @@ print("Hello World")
 
 msg="Hello World"
 print(msg)
+
+#third
+
+print("Hello " + "World") 
+
+
+# If you are using "+" you should add blank 
+
+
+print("Hello" + " " + "World") 
+
+# also you can use " * " for rewrite again
+
+print("Hello " + "World " * 3) 
